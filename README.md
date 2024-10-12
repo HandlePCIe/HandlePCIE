@@ -2,7 +2,6 @@
 
 I'm a passionate **Game Developer** who loves creating immersive worlds through code. With a strong foundation in C++, JavaScript, and Python, I balance **logical problem-solving** with **creative design** to build unique gaming experiences. 
 
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=cpp&value=50)](https://github.com/harish-sethuraman/readme-components)
 
 
 # 💻 Dev Skills:
@@ -21,4 +20,5 @@ I'm a passionate **Game Developer** who loves creating immersive worlds through 
 Creating immersive worlds where every line of code builds a unique experience. Development is the balance between rigorous logic and limitless creativity. Every bug is an opportunity for improvement, and every feature is a building block in a constantly evolving universe.
 
 # When I'm AFK
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)  [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=cpp&value=50)](https://github.com/harish-sethuraman/readme-components)
+ ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
