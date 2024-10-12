@@ -6,7 +6,7 @@ I'm a passionate **Game Developer** who loves creating immersive worlds through 
 
 # 💻 Dev Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,asm)](https://skillicons.dev) [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=cpp&value=50)](https://github.com/harish-sethuraman/readme-components)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,asm)](https://skillicons.dev)
 
 
 # 🛠 Projects:
