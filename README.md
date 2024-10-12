@@ -3,8 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,asm)](https://skillicons.dev)
 
 # 🛠 Projects:
-Working on cool stuff in C++, JS, and more
-## Exploring new tech, gaming APIs, and automation tools
+## Working on cool stuff in C++, JS, and more
+ Exploring new tech, gaming APIs, and automation tools
 
 
 # My vision of game development
