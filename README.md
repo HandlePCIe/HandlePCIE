@@ -1,3 +1,9 @@
+##  Who I Am
+
+I'm a passionate **Game Developer** who loves creating immersive worlds through code. With a strong foundation in C++, JavaScript, and Python, I balance **logical problem-solving** with **creative design** to build unique gaming experiences. 
+
+
+
 # 💻 Dev Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,asm)](https://skillicons.dev)
