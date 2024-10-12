@@ -2,10 +2,7 @@
 
 I'm a passionate **Game Developer** who loves creating immersive worlds through code. With a strong foundation in C++, JavaScript, and Python, I balance **logical problem-solving** with **creative design** to build unique gaming experiences. 
 
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=cpp&value=50)](https://github.com/harish-sethuraman/readme-components)
 
 
 # 💻 Dev Skills:
