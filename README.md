@@ -2,7 +2,7 @@
 
 I'm a passionate **Game Developer** who loves creating immersive worlds through code. With a strong foundation in C++, JavaScript, and Python, I balance **logical problem-solving** with **creative design** to build unique gaming experiences. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HandlePCIE=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HandlePCIE=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HandlePCIe/HandlePCIE/edit/main/README.md))
 
 # 💻 Dev Skills:
 
