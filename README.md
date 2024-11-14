@@ -5,7 +5,7 @@ I'm a passionate **Game Developer** who loves creating immersive worlds through 
 
 # 💻 Dev Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,asm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,obsidian,asm)](https://skillicons.dev)
 
 
 # 🛠 Projects:
