@@ -9,7 +9,7 @@ I'm a passionate **Game Developer** who loves creating immersive worlds through 
 
 
 # 🛠 Projects:
-## Working on cool stuff in C++, JS, and rage engine 
+## Working on cool stuff in C++, JS, and Rust
  Exploring new tech, gaming APIs, and automation tools
 
 
