@@ -14,7 +14,7 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 
 # 💻 Dev Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,obsidian,asm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,dotnet,asm)](https://skillicons.dev)
 
 
 # 🛠 Projects:
