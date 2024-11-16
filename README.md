@@ -1,6 +1,12 @@
 ##  Who I Am
 
-I'm a passionate **Game Developer** who loves creating immersive worlds through code. With a strong foundation in C++, JavaScript, and Python, I balance **logical problem-solving** with **creative design** to build unique gaming experiences. 
+Who am I?
+Hello, my name is Handle. I'm a ** year-old developer based in Florida. My work is focused on:
+
+Reverse engineering
+Compilers
+Building software for open-source projects I like
+Please take a look at my pinned projects to learn more and follow me to see my next projects take shape. If you want to help me out, consider becoming a sponsor.
 
 
 # 💻 Dev Skills:
