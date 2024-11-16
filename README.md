@@ -12,7 +12,7 @@ Hello, my name is Handle. I'm a ** year-old developer based in Florida. My work 
 Please take a look at my pinned projects to learn more and follow me to see my next projects take shape. If you want to help me out, consider becoming a sponsor.
 
 
-# 💻 Dev Skills:
+## 💻 Dev Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,dotnet,asm)](https://skillicons.dev)
 
