@@ -5,7 +5,7 @@ C/C++ Developer with expertise in algorithmic systems development and AI managem
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,dotnet,asm,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,dotnet,asm,git)](https://skillicons.dev)
 
 
 # 🛠 Projects:
