@@ -1,15 +1,6 @@
-##  Who I Am
+###  Who I Am
 
-Who am I?
-Hello, my name is Handle. I'm a ** year-old developer based in Florida. My work is focused on:
-
-* Reverse engineering
-* Compilers
-* Building software for open-source projects I like
-
-
-
-Please take a look at my pinned projects to learn more and follow me to see my next projects take shape. If you want to help me out, consider becoming a sponsor.
+C/C++ Developer with expertise in algorithmic systems development and AI management at Stars. I focus on designing efficient algorithms and managing AI systems to create optimized, high-performance game solutions. Always striving for innovation and performance, I specialize in crafting scalable architectures and enhancing game mechanics through advanced AI techniques.
 
 
 ## 💻 Dev Skills:
